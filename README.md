@@ -1,1 +1,1 @@
-# ex.dns-bind-
+# ex.guide
